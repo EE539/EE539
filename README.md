@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Ecenaz Elverdi</h1>
+<h3 align="center">A passionate developer from Turkey</h3>
 Hello 👋
 
 I'm from Turkey and I'm a newly graduated Computer Engineer. 
